@@ -17,7 +17,7 @@ function App() {
         >
           Learn DevOps
         </a>
-        <button>Login Button</button>
+        <button>Login</button>
       </header>
     </div>
   );
